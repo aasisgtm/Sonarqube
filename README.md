@@ -1,2 +1,2 @@
 # Sonarqube
-Bash script to install Sonarqube with postgresql
+###Bash script to install Sonarqube with postgresql
